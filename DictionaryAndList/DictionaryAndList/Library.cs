@@ -8,7 +8,7 @@ namespace DictionaryAndList
           
         public List<string> booksName = new List<string>();
 
-	    const int BookLimit=6;
+	    const int BookLimit=100;
        
         public void AddBook(string name)
         {
