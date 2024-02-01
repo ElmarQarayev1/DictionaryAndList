@@ -1,0 +1,15 @@
+/Users/elmar/Desktop/CodeAcademy/Homeworks/DictionaryAndListTasks/DictionaryAndList/DictionaryAndList/bin/Debug/net7.0/DictionaryAndList
+/Users/elmar/Desktop/CodeAcademy/Homeworks/DictionaryAndListTasks/DictionaryAndList/DictionaryAndList/bin/Debug/net7.0/DictionaryAndList.deps.json
+/Users/elmar/Desktop/CodeAcademy/Homeworks/DictionaryAndListTasks/DictionaryAndList/DictionaryAndList/bin/Debug/net7.0/DictionaryAndList.runtimeconfig.json
+/Users/elmar/Desktop/CodeAcademy/Homeworks/DictionaryAndListTasks/DictionaryAndList/DictionaryAndList/bin/Debug/net7.0/DictionaryAndList.dll
+/Users/elmar/Desktop/CodeAcademy/Homeworks/DictionaryAndListTasks/DictionaryAndList/DictionaryAndList/bin/Debug/net7.0/DictionaryAndList.pdb
+/Users/elmar/Desktop/CodeAcademy/Homeworks/DictionaryAndListTasks/DictionaryAndList/DictionaryAndList/obj/Debug/net7.0/DictionaryAndList.csproj.AssemblyReference.cache
+/Users/elmar/Desktop/CodeAcademy/Homeworks/DictionaryAndListTasks/DictionaryAndList/DictionaryAndList/obj/Debug/net7.0/DictionaryAndList.GeneratedMSBuildEditorConfig.editorconfig
+/Users/elmar/Desktop/CodeAcademy/Homeworks/DictionaryAndListTasks/DictionaryAndList/DictionaryAndList/obj/Debug/net7.0/DictionaryAndList.AssemblyInfoInputs.cache
+/Users/elmar/Desktop/CodeAcademy/Homeworks/DictionaryAndListTasks/DictionaryAndList/DictionaryAndList/obj/Debug/net7.0/DictionaryAndList.AssemblyInfo.cs
+/Users/elmar/Desktop/CodeAcademy/Homeworks/DictionaryAndListTasks/DictionaryAndList/DictionaryAndList/obj/Debug/net7.0/DictionaryAndList.csproj.CoreCompileInputs.cache
+/Users/elmar/Desktop/CodeAcademy/Homeworks/DictionaryAndListTasks/DictionaryAndList/DictionaryAndList/obj/Debug/net7.0/DictionaryAndList.dll
+/Users/elmar/Desktop/CodeAcademy/Homeworks/DictionaryAndListTasks/DictionaryAndList/DictionaryAndList/obj/Debug/net7.0/refint/DictionaryAndList.dll
+/Users/elmar/Desktop/CodeAcademy/Homeworks/DictionaryAndListTasks/DictionaryAndList/DictionaryAndList/obj/Debug/net7.0/DictionaryAndList.pdb
+/Users/elmar/Desktop/CodeAcademy/Homeworks/DictionaryAndListTasks/DictionaryAndList/DictionaryAndList/obj/Debug/net7.0/DictionaryAndList.genruntimeconfig.cache
+/Users/elmar/Desktop/CodeAcademy/Homeworks/DictionaryAndListTasks/DictionaryAndList/DictionaryAndList/obj/Debug/net7.0/ref/DictionaryAndList.dll

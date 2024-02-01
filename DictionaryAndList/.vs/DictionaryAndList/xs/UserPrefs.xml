@@ -1,0 +1,30 @@
+﻿<Properties StartupConfiguration="{D08D1C52-AE2C-4111-9657-451584F3D2C6}|Default">
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="DictionaryAndList/Exceptions/DublicateBookException.cs">
+    <Files>
+      <File FileName="DictionaryAndList/Program.cs" Line="92" Column="5" />
+      <File FileName="DictionaryAndList/Library.cs" Line="36" Column="16" />
+      <File FileName="DictionaryAndList/BookNotFoundExceptions.cs" Line="13" Column="1" />
+      <File FileName="DictionaryAndList/Exceptions/IsFullOfBooksLimit.cs" Line="14" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="DictionaryAndList" expanded="True">
+            <Node name="DictionaryAndList">
+              <Node name="Exceptions" expanded="True">
+                <Node name="DublicateBookException.cs" selected="True" />
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.DictionaryAndList PreferredExecutionTarget="MonoDevelop.Default" />
+</Properties>
