@@ -1,0 +1,27 @@
+﻿<Properties StartupConfiguration="{D08D1C52-AE2C-4111-9657-451584F3D2C6}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="DictionaryAndList/Program.cs">
+    <Files>
+      <File FileName="DictionaryAndList/Program.cs" Line="9" Column="6" />
+      <File FileName="DictionaryAndList/Library.cs" />
+      <File FileName="DictionaryAndList/Exceptions/IsFullOfBooksLimit.cs" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="DictionaryAndList" expanded="True">
+            <Node name="DictionaryAndList" expanded="True">
+              <Node name="Program.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.DictionaryAndList PreferredExecutionTarget="MonoDevelop.Default" />
+</Properties>
